@@ -9,7 +9,7 @@
 - [Setup](#setup)
 - [API Endpoints](#api-endpoints)
 
-  ## Introduction
+## Introduction
 
 Developed a web application using Java for the backend and JavaScript for the frontend to display real-time weather and air quality information, integrating Google Maps API and AirVisual API. 
 
@@ -21,7 +21,7 @@ Developed a web application using Java for the backend and JavaScript for the fr
 - User: User login and registration system.
 
 
-  ## Tech Stack
+## Tech Stack
 
 - Java with Spring Boot for backend services.
 - Maven for build and dependency management.
@@ -31,7 +31,7 @@ Developed a web application using Java for the backend and JavaScript for the fr
 - Microservices architecture, indicated by multiple service directories (e.g., identity-service, notification-service, utility-service).
 
 
-  ## Installation
+## Installation
 
 1. **Clone the Repository:**
    ```sh
