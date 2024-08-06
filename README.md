@@ -35,7 +35,7 @@ Developed a web application using Java for the backend and JavaScript for the fr
 
 1. **Clone the Repository:**
    ```sh
-    git clone https://github.com/khantaha2112/breathe-easy.git
+    git clone https://github.com/khantaha2112/Breathe-Easy.git
 2. **Backend Setup (Java):**
 - Navigate to the backend directory (e.g. utility-service
 -       cd utility-service
